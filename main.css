@@ -15,10 +15,11 @@
 
 .mohammad_reza {
     display: flex;
+    align-items: center;
 }
 
 .mohammad_reza h1 {
-    margin: 111px auto 0 182px;
+    margin: 111px auto auto 182px;
     width: 475px;
     color: #222;
     font-family: "Poppins", sans-serif;
@@ -80,7 +81,7 @@
 .mohammad_reza img {
     width: 406px;
     height: 406px;
-    margin: 100px 176px 0 0;
+    margin: 100px 176px auto auto;
 }
 
 .projects_summary{
